@@ -7,7 +7,7 @@ We Use Tailwindcss Shadcn Typescript For Our Best UI
 
 ## Sponsors
 ![Vercel](https://logowik.com/content/uploads/images/vercel1868.jpg)
-![tailwindcss](https://w7.pngwing.com/pngs/106/519/png-transparent-tailwind-css-hd-logo.png)
+![tailwindcss](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhoXisDruJMDAq3Ltd-wuaMW2lGxck9wAKw&s)
 ![Nextjs](https://static-00.iconduck.com/assets.00/nextjs-icon-2048x1234-pqycciiu.png)
-![Typescript](https://w7.pngwing.com/pngs/616/528/png-transparent-angularjs-typescript-javascript-vue-js-others-blue-angle-text-thumbnail.png)
+![Typescript](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzAyxDsXAv0DYruT0KSin2YgggqZCWTt2biQ&s)
 
